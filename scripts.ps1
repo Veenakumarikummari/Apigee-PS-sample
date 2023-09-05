@@ -12,7 +12,7 @@ $githubToken = "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"
 
 # ------------------------------------Proxies------------------------------------------
 # Clone the repository
-git clone https://github.com/Veenakumarikummari/Apigee-PS-sample.git
+git clone https://github.com/rajeshjanapati/github-proxies-X.git
 # cd $repositoryName
 
 # Use Get-ChildItem to list all files in the directory with a .zip extension
