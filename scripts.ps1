@@ -8,7 +8,7 @@ $headers = @{Authorization = "Bearer $token"}
 $repositoryOwner = "veenakumari402@gmail.com"
 $repositoryName = "Apigee-PS-sample"
 $branchName = "main"  # Change this to the branch you want to access
-$githubToken = "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"
+$githubToken = "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"
 
 # ------------------------------------Proxies------------------------------------------
 # Clone the repository
